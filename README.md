@@ -1,6 +1,6 @@
 # QmlPragmaLibrary Webpack Plugin
 
-Adds a `.pragma library` declaration the beginning of a file as mentioned in [Defining JavaScript Resources In QML](http://doc.qt.io/qt-5/qtqml-javascript-resources.html#shared-javascript-resources-libraries).
+Adds a `.pragma library` declaration at the beginning of a file as mentioned in [Defining JavaScript Resources In QML](http://doc.qt.io/qt-5/qtqml-javascript-resources.html#shared-javascript-resources-libraries).
 
 ## Install
 
