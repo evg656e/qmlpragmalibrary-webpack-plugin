@@ -1,8 +1,12 @@
 {
   "name": "qmlpragmalibrary-webpack-plugin",
   "version": "0.0.1",
-  "description": "",
+  "description": "QmlPragmaLibrary plugin for webpack",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evg656e/qmlpragmalibrary-webpack-plugin"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +15,7 @@
     "webpack",
     "plugin"
   ],
-  "author": "evg656e",
+  "author": "evg656e <evg656e@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "webpack-sources": "^1.0.1"
